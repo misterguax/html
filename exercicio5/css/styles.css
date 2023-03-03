@@ -32,11 +32,11 @@ header{/*Configura o cabeçalho*/
 }
 
 #img-1{
- background-image: url(/Imagens/tenis1.jpg);
+ background-image: url(../Imagens/tenis1.jpg);
 }
 
 #img-2{
- background-image: url(/Imagens/tenis2.jpg);
+ background-image: url(../Imagens/tenis2.jpg);
 }
 
 #img-3{
