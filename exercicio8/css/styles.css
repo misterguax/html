@@ -17,7 +17,7 @@ body {
 .cabecalho {
     padding:60px;
     text-align: center;
-    background-image: url(/exercicio8/imagens/exercicio8.png);
+    background-image: url(../imagem/exercicio8.png);
     background-size: cover;
     color: rgb(255, 255, 255);
     
@@ -98,9 +98,8 @@ body {
         flex-direction: column;
     }
     .cabecalho {
-        background-image: url(/exercicio8/imagens/SiteReponsivo.png);
+        background-image: url(../imagem/SiteReponsivo.png);
         background-size: cover;
         color: white;
     }
 }
-
